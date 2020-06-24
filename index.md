@@ -14,3 +14,4 @@ Bugs Bunny likes to say:
 
 > Eh...What's up, doc?
 
+<img src="https://upload.wikimedia.org/wikipedia/en/7/79/Bugsbunny2011.png"/>
