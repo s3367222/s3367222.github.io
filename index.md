@@ -10,3 +10,7 @@ Bugs is an anthropomorphic gray and white rabbit or hare who is famous for his f
 * Sarcastic
 * Intelligent
 
+Bugs Bunny likes to say:
+
+> Eh...What's up, doc?
+
